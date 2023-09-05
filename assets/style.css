@@ -1,0 +1,36 @@
+/* Header Styled Here */
+.header {
+  text-align: right;
+  display: inline;
+  list-style-type: none;
+}
+
+/* The Me & Family photos section photos section is styled here */
+#photo-1 {
+  width: 300px;
+  height: 300px;
+  border: 5px solid black;
+  border-radius: 12%;
+}
+
+#photo-2 {
+  width: 300px;
+  height: 300px;
+  border: 5px solid black;
+  border-radius: 12%;
+}
+
+#photo-3 {
+  width: 300px;
+  height: 300px;
+  border: 5px solid black;
+  border-radius: 12%;
+}
+
+#photo-4 {
+  width: 300px;
+  height: 300px;
+  border: 5px solid black;
+  border-radius: 12%;
+}
+
